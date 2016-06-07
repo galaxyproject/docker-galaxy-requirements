@@ -2,7 +2,7 @@
 #
 # VERSION   2015.1
 
-FROM ubuntu:14.04
+FROM ubuntu:16.04
 
 MAINTAINER Björn A. Grüning, Dave Bouvier
 
